@@ -1,0 +1,6 @@
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Backend I\Projects\Exchange2\Exchange2\obj\Debug\Exchange2.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Backend I\Projects\Exchange2\Exchange2\obj\Debug\Exchange2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Backend I\Projects\Exchange2\Exchange2\bin\Debug\Exchange2.exe
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Backend I\Projects\Exchange2\Exchange2\bin\Debug\Exchange2.pdb
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Backend I\Projects\Exchange2\Exchange2\obj\Debug\Exchange2.exe
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Backend I\Projects\Exchange2\Exchange2\obj\Debug\Exchange2.pdb
